@@ -1,6 +1,6 @@
 # Persian Colors (Iranian colors)
 
-List of Persian Colors and hex colors for CSS, SCSS, PHP, JS, Python, and Ruby.
+List of Persian Colors and hex colors for CSS, SCSS, PHP, C++, QML JS, Python, and Ruby.
 
 ## Persian colors
 
