@@ -1,3 +1,4 @@
+<?php
 $persianColors = [
     "red"        => "#c81d11",
     "plum"       => "#701c1c",
