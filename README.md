@@ -15,3 +15,10 @@ List of Persian Colors and hex colors for CSS, SCSS, PHP, C++, QML, JS, Python, 
 | Persian Indigo        | #32127a | ![](https://singlecolorimage.com/get/32127a/50x50) |
 | Persian Blue          | #1c39bb | ![](https://singlecolorimage.com/get/1c39bb/50x50) |
 | Persian Medium Blue   | #0067a5 | ![](https://singlecolorimage.com/get/0067a5/50x50) |
+
+## References
+
+There are some references about Persian colors:
+
+- https://en.wikipedia.org/wiki/Persian_green
+- https://en.wikipedia.org/wiki/Persian_blue
