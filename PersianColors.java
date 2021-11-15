@@ -3,7 +3,7 @@ import java.util.Map;
 
 class PersianColors {
 
-    HashMap<String, String> colors = new HashMap<String, String>() {
+    public static HashMap<String, String> colors = new HashMap<String, String>() {
         {
             put("red", "#c81d11");
             put("plum", "#701c1c");
@@ -20,7 +20,7 @@ class PersianColors {
     /**
      * Iterating through hashmap example.
      */
-    void iterateExample() {
+    private void iterateExample() {
         for (Map.Entry<String, String> m : colors.entrySet()) {
             System.out.println(m.getKey() + " " + m.getValue());
         }
@@ -29,7 +29,7 @@ class PersianColors {
     /**
      * Getting a color example.
      */
-    void getColorExample() {
+    private void getColorExample() {
         System.out.println(colors.get("red"));
     }
 }
