@@ -13,7 +13,7 @@ class PersianColors {
             put("orange", "#d99058");
             put("indigo", "#32127a");
             put("blue", "#1c39bb");
-            put("indigo", "#0067a5");
+            put("mediumBlue", "#0067a5");
         }
     };
 
