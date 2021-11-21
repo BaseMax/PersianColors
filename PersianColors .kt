@@ -1,6 +1,4 @@
-
-
-  class PersianColors {
+class PersianColors {
     /**
      * Iterating through hashmap example.
      */
@@ -14,7 +12,7 @@
      * Getting a color example.
      */
     private fun colorExample() = println(colors["red"])
- 
+
 
     companion object {
 
