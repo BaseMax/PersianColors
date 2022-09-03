@@ -17,7 +17,7 @@ func PersianColors() map[string]string {
 }
 
 func main() {
-	// 	An example to show PersianColors cases
+	// An example to show PersianColors cases
 	colors := PersianColors()
 
 	for name, hex := range colors {
